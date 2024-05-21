@@ -1,5 +1,7 @@
 
 <?php
+<br/>
+
     echo "<h3>Print instructions in PHP</h3>"."<br/>";
     echo "Hello!! Welcome to the PHP world"."<br/>";
     printf("Message from print function");
